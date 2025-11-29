@@ -1,7 +1,7 @@
-[![Build status](https://github.com/devkitPro/wut/workflows/C%2FC%2B%2B%20CI/badge.svg)](https://github.com/devkitPro/wut/actions?workflow=C%2FC%2B%2B+CI)
+
 
 # wut
-Let's try to make a Wii U Toolchain / SDK for creating rpx/rpl.
+A fork of WUT that can create custom RPL files for color splash modding.
 
 Licensed under the terms of the zlib License (see [LICENSE.txt](LICENSE.txt)).
 
