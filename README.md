@@ -8,9 +8,6 @@ Licensed under the terms of the zlib License (see [LICENSE.txt](LICENSE.txt)).
 ## Install
 First, install [devkitPro and devkitPPC](https://devkitpro.org/wiki/Getting_Started), then follow the building from source instructions below
 
-## Building wut projects
-```
-
 ### Building wut projects with CMake
 You can easily build any devkitPro CMake based wut project with the following commands:
 ```
